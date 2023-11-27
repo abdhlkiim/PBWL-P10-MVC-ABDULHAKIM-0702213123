@@ -1,15 +1,24 @@
 <?php return array(
     'root' => array(
-        'name' => 'suendri-uinsu/pbwl-project11',
+        'name' => 'abdhlkiim/pbwl-project10',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '4a64466a88020cba1b326e8e50e5f4400bdacd6a',
+        'reference' => 'b63db122db9cb39ff7f1bcda773798326d5c5651',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
+        'abdhlkiim/pbwl-project10' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'b63db122db9cb39ff7f1bcda773798326d5c5651',
+            'type' => 'project',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'filp/whoops' => array(
             'pretty_version' => '2.15.4',
             'version' => '2.15.4.0',
@@ -25,15 +34,6 @@
             'reference' => 'fe5ea303b0887d5caefd3d431c3e61ad47037001',
             'type' => 'library',
             'install_path' => __DIR__ . '/../psr/log',
-            'aliases' => array(),
-            'dev_requirement' => false,
-        ),
-        'suendri-uinsu/pbwl-project11' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'reference' => '4a64466a88020cba1b326e8e50e5f4400bdacd6a',
-            'type' => 'project',
-            'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
             'dev_requirement' => false,
         ),

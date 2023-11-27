@@ -19,11 +19,12 @@
             width: 100%;
         }
 
-        tr, td {
+        tr,
+        td {
             padding: 10px;
         }
 
-        input{
+        input {
             width: 100%;
             padding: 8px;
             box-sizing: border-box;
@@ -38,11 +39,12 @@
             border-radius: 4px;
             cursor: pointer;
         }
-
     </style>
 </head>
 
-<h2><center>INPUT USER</center></h2>
+<h2>
+    <center>INPUT USER</center>
+</h2>
 
 <form action="<?php echo URL; ?>/users/save" method="post">
     <table>

@@ -73,7 +73,7 @@ $user_id = $_SESSION['user']["user_id"];
             </td>
         </tr>
         <tr>
-            <td>NAME</td>
+            <td>NAMA</td>
             <td><input type="text" name="pel_nama" required></td>
         </tr>
         <tr>

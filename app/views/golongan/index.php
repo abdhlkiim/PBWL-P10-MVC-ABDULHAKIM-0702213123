@@ -5,7 +5,7 @@
 <table id="dtb">
       <thead>
             <tr>
-                  <th>#NO</th>
+                  <th>NO</th>
                   <th>KODE</th>
                   <th>NAMA</th>
                   <th>EDIT</th>

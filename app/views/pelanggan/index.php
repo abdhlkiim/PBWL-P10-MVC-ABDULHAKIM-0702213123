@@ -7,7 +7,7 @@
             <tr>
                   <th>NO</th>
                   <th>GOLONGAN</th>
-                  <th>NAME</th>
+                  <th>NAMA</th>
                   <th>ALAMAT</th>
                   <th>HP</th>
                   <th>KTP</th>
