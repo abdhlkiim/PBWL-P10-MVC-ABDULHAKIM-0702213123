@@ -22,7 +22,7 @@
 
 		<header>
 			<img src="<?php echo AST; ?>/img/delitekno.png" class="brand">
-			<div class="user"><?php echo $_SESSION['login']; ?></div>
+			<div class="user"><?php $_SESSION['login']; ?></div>
 		</header>
 
 		<nav>
